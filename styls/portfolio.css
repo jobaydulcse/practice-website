@@ -35,7 +35,9 @@ border-radius: 5px;}
 font-size: 18px;
 color: #757575;
 }
-
+.text-center{
+    text-align: center;
+}
  
 /* Header */
 .header{
